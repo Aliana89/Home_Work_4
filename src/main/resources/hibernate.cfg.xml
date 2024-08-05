@@ -13,6 +13,7 @@
         <mapping class="org.max.home.DeliveryEntity"/>
         <mapping class="org.max.home.OrdersEntity"/>
         <mapping class="org.max.home.OrdersProductsEntity"/>
+            //у Вас нет класса OrdersProductsEntityPK
         <mapping class="org.max.home.OrdersProductsEntityPK"/>
         <mapping class="org.max.home.ProductsEntity"/>
 
