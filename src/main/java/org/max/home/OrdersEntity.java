@@ -11,6 +11,7 @@ import java.util.Objects;
 public class OrdersEntity {
     private short orderId;
     private String dateGet;
+    //нет маппинга на поде в базе для customerId
     private int customerId;
 
     @Id
